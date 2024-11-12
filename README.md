@@ -12,7 +12,7 @@ This project was for Ogentech company. A little about the company: "Ogentech is 
 <br>More information is availble on their website: https://www.ogentech.com/
 
 The main goal was to examine the possibility of using machine learning tools in the company's work. 
-<ins>In the project terms, the goal is to examine the effectiveness of machine learning tools by constructing a price elasticity table and curve for different products.</ins>
+<ins>In the project terms, the goal is to examine the effectiveness of machine learning models in the field of price optimization.</ins>
 
 # Project steps
 
@@ -38,9 +38,10 @@ Our final outcomes were as follows:
 4. Pipeline - for data processing, model training, and generating graphs for a specific product
 
 # Summary and Conclusions
-Machine learning tools can be indeed suitable for addressing such business issues, like demand forecasting from tabular data.
+Machine learning tools can be indeed suitable for the field of price optimization, such as demand forecasting from tabular data.
 In our results, we can see interesting discount ranges - a range that greatly affects the demand for the selected products and a range where the discount does not lead to a change in sales.
 These points can support the assumption that there is a range of discounts within which a change in the product's price affects its demand.
+<br><b>This project has been successfully implemented in the company for further development and use.</b>
 
 The project was challenging but rewarding; we learned and grew a lot together. The work and communication with Ron Levkovitz, the CTO of Ogentech company, were easy-going, interesting, and educational. 
 
